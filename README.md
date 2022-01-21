@@ -14,3 +14,9 @@
 <h1>
   <a href="https://www.hostinger.co.id/tutorial/apa-itu-react#:~:text=Apa%20Itu%20React%20dan%20Bagaimana%20Cara%20Kerjanya%3F%20React,dengan%20menggunakan%20metode%20baru%20dalam%20proses%20rendering%20website." style="font-size: 3em;">Referensi</a>
 </h1>
+
+## License
+
+MIT licensed
+
+Copyright (C) 2011-2021 Hakim El Hattab, https://hakim.se
